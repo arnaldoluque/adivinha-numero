@@ -13,13 +13,11 @@ Um desafio rápido onde tens de adivinhar o número secreto entre 1 e 10. Mas at
 # 💻 Como executar
 bash
 
-1. Clona o repositório
+1. Clona o repositório<br>
+    https://github.com/arnaldoluque/adivinha-numero.git
+   
+3. Entra na pasta<br>
+     cd adivinha-numero
 
-2. abra o terminal
-
-3. Entra na pasta
- 
-4. cd teu-repositorio
-
-5. Executa o jogo
-  python adivinha.py
+4. Executa o jogo<br>
+     python adivinha.py
